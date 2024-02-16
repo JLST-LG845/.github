@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://raw.githubusercontent.com/JLST-LG845/.github/main/banner.png)
 # Juleast's LG 845 Project
 Hi, I'm Juleast.
 
