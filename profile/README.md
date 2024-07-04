@@ -3,7 +3,7 @@
 Hi, I'm Juleast.
 
 This is a collection of device trees that I work on for LG devices with the SDM845 chipset.  
-Do note, I am in no way an expert and I've only taken existing trees to adapt to certain changes that are required.
+Do note that I am no expert and have only taken existing trees to adapt to certain required changes.
 
 For building, check out the [local manifest](https://github.com/JLST-LG845/local_manifests).
 
